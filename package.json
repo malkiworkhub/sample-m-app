@@ -1,0 +1,20 @@
+{
+  "name": "sample-m-app",
+  "version": "1.0.0",
+  "description": "sample node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malkiworkhub/sample-m-app.git"
+  },
+  "keywords": [],
+  "author": "malki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malkiworkhub/sample-m-app/issues"
+  },
+  "homepage": "https://github.com/malkiworkhub/sample-m-app#readme"
+}
